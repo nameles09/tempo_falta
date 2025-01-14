@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-//import data from '../../../lib/data';
+import data from './src/data/data';
 
 export default function Login() {
     const [username, setUsername] = useState('');

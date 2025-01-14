@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import data from './src/data/data';
 
 export default function Pagamentos() {
     const [pagamentos, setPagamentos] = useState([]);
