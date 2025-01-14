@@ -1,3 +1,5 @@
+import Pagamentos from "@/app/api/pagamentos/route";
+
 const data = {
     users: [
         {
@@ -35,7 +37,7 @@ const data = {
             paid: 15000
         }
     ],
-    payments: [
+    Pagamentos: [
         {
             id: 1,
             houseId: 1,
@@ -43,7 +45,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos: [
         {
             id: 1,
             houseId: 1,
@@ -51,7 +53,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos : [
         {
             id: 1,
             houseId: 1,
@@ -59,7 +61,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos :[
         {
             id: 1,
             houseId: 1,
@@ -67,7 +69,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos : [
         {
             id: 1,
             houseId: 1,
@@ -75,7 +77,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos :[
         {
             id: 1,
             houseId: 1,
@@ -83,7 +85,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos : [
         {
             id: 1,
             houseId: 1,
@@ -91,7 +93,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos :[
         {
             id: 1,
             houseId: 1,
@@ -99,7 +101,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos : [
         {
             id: 1,
             houseId: 1,
@@ -107,7 +109,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos : [
         {
             id: 1,
             houseId: 1,
@@ -115,7 +117,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos : [
         {
             id: 1,
             houseId: 1,
@@ -123,7 +125,7 @@ const data = {
             amount: 500
         }
     ],
-    payments: [
+    Pagamentos : [
         {
             id: 1,
             houseId: 1,
